@@ -1,4 +1,10 @@
+### Merhaba 👋
+Gezginci, Yazılımcı
+2002 yılından itibaren .Net ve diğer teknik teknolojileri takip etmekteyim,
+İş hayatında sürekli çeşitli mevkilerde görevler aldım, şu an da özel sektörde Mobil, Windows ve Web Tabanlı uygulamalar da edindiğim bilgi ve tecrübeleri ile Ekip Lideri ve Proje Yönetimi yapmaktayım, kitap okumayı, her türlü maç izlemeyi severim ve Gezginci, Yazılımcı kişiyim.
+
 ### Hi there 👋
+Since 2002, I have been following .Net and other technical technologies, I have been working in various positions in business life, I am a Senior Software Specialist and Project Management with my knowledge and experience in the private sector, I have been reading, reading books, all kinds of I like watching matches and I am a Stroller and a Software developer.
 
 <!--
 **FikretAkin/FikretAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
