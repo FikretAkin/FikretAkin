@@ -1,5 +1,4 @@
 ### Merhaba 👋
-Gezginci, Yazılımcı
 2002 yılından itibaren .Net ve diğer teknik teknolojileri takip etmekteyim,
 İş hayatında sürekli çeşitli mevkilerde görevler aldım, şu an da özel sektörde Mobil, Windows ve Web Tabanlı uygulamalar da edindiğim bilgi ve tecrübeleri ile Ekip Lideri ve Proje Yönetimi yapmaktayım, kitap okumayı, her türlü maç izlemeyi severim ve Gezginci, Yazılımcı kişiyim.
 
