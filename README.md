@@ -5,6 +5,8 @@
 ### Hi there 👋
 Since 2002, I have been following .Net and other technical technologies, I have been working in various positions in business life, I am a Senior Software Specialist and Project Management with my knowledge and experience in the private sector, I have been reading, reading books, all kinds of I like watching matches and I am a Stroller and a Software developer.
 
+<a href="https://wakatime.com/@71a12e3b-7a21-4c6c-ae30-6d4650444ce3"><img src="https://wakatime.com/badge/user/71a12e3b-7a21-4c6c-ae30-6d4650444ce3.svg" alt="Total time coded since Dec 24 2015" /></a>
+
 <!--
 **FikretAkin/FikretAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
